@@ -46,12 +46,12 @@
             // 
             // lstbContent
             // 
-            this.lstbContent.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lstbContent.Font = new System.Drawing.Font("Microsoft Sans Serif", 17F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lstbContent.FormattingEnabled = true;
-            this.lstbContent.ItemHeight = 25;
+            this.lstbContent.ItemHeight = 29;
             this.lstbContent.Location = new System.Drawing.Point(12, 12);
             this.lstbContent.Name = "lstbContent";
-            this.lstbContent.Size = new System.Drawing.Size(357, 154);
+            this.lstbContent.Size = new System.Drawing.Size(357, 149);
             this.lstbContent.TabIndex = 1;
             // 
             // lblResult

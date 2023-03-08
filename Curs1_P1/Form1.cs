@@ -61,7 +61,7 @@ namespace Curs1_P1
                     cont2++;
                 }
             }
-            lstbContent.Items.Add(buffer);
+            //lstbContent.Items.Add(buffer);
 
             if (max == 5)
             {
